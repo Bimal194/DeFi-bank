@@ -34,9 +34,9 @@ And twitter account has to be active over last 30 days.
 
 For running app locally ,we have two methods :
 * From command line, we will use below two commands in different wsl cmd lines.
- ``` dfx start
-     dfx deploy
- ```
+ ``` dfx start```
+ ``` dfx deploy```
+
 
 * For better User Interface we can use Candid UI.
   for running Candid UI, we have to follow some steps given below:
