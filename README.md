@@ -4,7 +4,8 @@ This project is inspired by compound protocol (https://compound.finance/) which 
 Essentially, our DeFi-bank is decentralised application which will used to calculate the interest on a given token balance.
 Here, the calculation of interests is based on compound Interest.
 For this particular app, we are calculating final amount by considering 1% interest every second.
-![999](https://user-images.githubusercontent.com/69100830/177822213-e1402436-55f9-4551-9e35-095f019b87c2.jpg)
+![66](https://user-images.githubusercontent.com/69100830/177823034-6cefe61c-ef06-4718-81c8-34f58b7f92cf.jpg)
+
 
 
 ```A= currentValue*(1 + 0.01)^numSec```
