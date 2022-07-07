@@ -35,7 +35,7 @@ And twitter account has to be active over last 30 days.
 For running app locally ,we have two methods :
 * From command line, we will use below two commands in different wsl cmd lines.
 
-  -``` dfx start```
+  -``` dfx start```.
   -``` dfx deploy```
 
 
