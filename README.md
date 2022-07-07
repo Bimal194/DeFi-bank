@@ -1,4 +1,4 @@
-# DeFi-bank
+
 This project is inspired by compound protocol (https://compound.finance/) which is called a money market protocol.
 Essentially, our DeFi-bank is decentralised application which will used to calculate the interest on a given token balance.
 Here, the calculation of interests is based on compound Interest.
