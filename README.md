@@ -4,7 +4,7 @@ Essentially, our DeFi-bank is decentralised application which will used to calcu
 Here, the calculation of interests is based on compound Interest.
 For this particular app, we are calculating final amount by considering 1% interest every second.
 
-Note.
+Note:
 *A decentralized application (dApp) is a type of distributed open source software application that runs on a peer-to-peer (P2P) blockchain network rather than on a single computer. DApps are visibly similar to other software applications that are supported on a website or mobile device but are P2P supported.*
 
 # Techstacks:
@@ -25,7 +25,7 @@ like,
 
 All the above methods are not free of cost.
 So, there is one free way to get $20 worth of free cycles.
-*Cycles Faucet: https://internetcomputer.org/docs/current/developer-docs/quickstart/cycles-faucet/ .
+*Cycles Faucet: https://internetcomputer.org/docs/current/developer-docs/quickstart/cycles-faucet/ .*
 Again there is some conditions are there like you should have more than 90 days old twitter account.
 And twitter account has to be active over last 30 days.
 
@@ -44,6 +44,8 @@ For running app locally ,we have two methods :
 Paste url on browser: ```http://127.0.0.1.8000/?canisterId=<YOUR CANISTER ID>```.
 ```dfx canister id <YOUR APP NAME>``` [for getting id to provide in Candid UI box].
 ![candid UI](https://user-images.githubusercontent.com/69100830/177814899-726ed3b8-0b44-4093-86e1-9dc5b83f11e1.jpg)
+
+------------------------------------------------------------------------------------------------------------------------------
 
 
 
