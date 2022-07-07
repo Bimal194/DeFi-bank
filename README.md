@@ -25,7 +25,8 @@ like,
 
 All the above methods are not free of cost.
 So, there is one free way to get $20 worth of free cycles.
-*Cycles Faucet: https://internetcomputer.org/docs/current/developer-docs/quickstart/cycles-faucet/ .*
+* Cycles Faucet: https://internetcomputer.org/docs/current/developer-docs/quickstart/cycles-faucet/ .*
+
 Again there is some conditions are there like you should have more than 90 days old twitter account.
 And twitter account has to be active over last 30 days.
 
