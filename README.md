@@ -1,8 +1,10 @@
 
 This project is inspired by compound protocol (https://compound.finance/) which is called a money market protocol.
+
 Essentially, our DeFi-bank is decentralised application which will used to calculate the interest on a given token balance.
 Here, the calculation of interests is based on compound Interest.
 For this particular app, we are calculating final amount by considering 1% interest every second.
+
 
 Note:
 *A decentralized application (dApp) is a type of distributed open source software application that runs on a peer-to-peer (P2P) blockchain network rather than on a single computer. DApps are visibly similar to other software applications that are supported on a website or mobile device but are P2P supported.*
@@ -33,7 +35,7 @@ And twitter account has to be active over last 30 days.
 
 ![gif_final](https://user-images.githubusercontent.com/69100830/177812262-e9f44398-d8a8-45ed-b6ab-bd5bdb37fca7.gif)
 
-For running app locally ,we have two methods :
+# For running app locally ,we have two methods :
 * From command line, we will use below two commands in different wsl cmd lines.
 
   -``` dfx start```
