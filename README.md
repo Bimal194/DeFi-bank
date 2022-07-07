@@ -23,6 +23,11 @@ Note:
 * Motoko Programming language is a new, modern and type safe language for developers who want to build the next 
 generation of distributed applications to run on the Internet Computer (ICP) blockchain Network.
 
+
+# Final Application working:
+![gif_final](https://user-images.githubusercontent.com/69100830/177812262-e9f44398-d8a8-45ed-b6ab-bd5bdb37fca7.gif)
+
+
 # Deployment to the ICP Live Blockchain
 For deployment purpose, we need ICP Tokens
 so there are various methods to get this tokens
@@ -39,8 +44,6 @@ So, there is one free way to get $20 worth of free cycles.
 Again there is some conditions are there like you should have more than 90 days old twitter account.
 And twitter account has to be active over last 30 days.
 
-
-![gif_final](https://user-images.githubusercontent.com/69100830/177812262-e9f44398-d8a8-45ed-b6ab-bd5bdb37fca7.gif)
 
 # For running app locally ,we have two methods :
 * From command line, we will use below two commands in different wsl cmd lines.
