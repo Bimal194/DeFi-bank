@@ -5,7 +5,7 @@ Here, the calculation of interests is based on compound Interest.
 For this particular app, we are calculating final amount by considering 1% interest every second.
 
 Note.
-*A decentralized application (dApp) is a type of distributed open source software application that runs on a peer-to-peer (P2P) blockchain network rather than on a single computer. DApps are visibly similar to other software applications that are supported on a website or mobile device but are P2P supported.
+*A decentralized application (dApp) is a type of distributed open source software application that runs on a peer-to-peer (P2P) blockchain network rather than on a single computer. DApps are visibly similar to other software applications that are supported on a website or mobile device but are P2P supported.*
 
 # Techstacks:
 HTML, CSS, Javascript, Motoko programming language
