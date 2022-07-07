@@ -40,11 +40,11 @@ For running app locally ,we have two methods :
 
 * For better User Interface we can use Candid UI.
   for running Candid UI, we have to follow some steps given below.
-      * ```dfx canister id __Candid_UI```     [for getting canister Id].
+      * ```dfx canister id __Candid_UI```     [for getting canister Id].*
 
-      * -Paste url on browser: ```http://127.0.0.1.8000/?canisterId=<YOUR CANISTER ID>```.
+      *  Paste url on browser: ```http://127.0.0.1.8000/?canisterId=<YOUR CANISTER ID>```.*
 
-      * ```dfx canister id <YOUR APP NAME>``` [for getting id to provide in Candid UI box].
+      * ```dfx canister id <YOUR APP NAME>``` [for getting id to provide in Candid UI box].*
 
 ![candid UI](https://user-images.githubusercontent.com/69100830/177814899-726ed3b8-0b44-4093-86e1-9dc5b83f11e1.jpg)
 
