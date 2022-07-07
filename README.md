@@ -5,25 +5,25 @@ Here, the calculation of interests is based on compound Interest. For this parti
 we are calculating final amount by considering 1% interest every second.
 
 
-#Techstacks 
+# Techstacks:
 HTML, CSS, Javascript, Motoko programming language
 
 
 Motoko Programming language is a new, modern and type safe language for developers who want to build the next 
 generation of distributed applications to run on the Internet Computer (ICP) blockchain Network.
 
-#deployment to the ICP Live Blockchain
+# Deployment to the ICP Live Blockchain
 For deployment purpose, we need ICP Tokens
 so there are various methods to get this tokens
 like, 
-*Purchase/exchange coins with ICP tokens.
-*Get tokens from NNS(Network Nervous System) through Voting
-*Dfinity Developer Grant Program.
-*And those who have their own data-centers.
+* Purchase/exchange coins with ICP tokens.
+* Get tokens from NNS(Network Nervous System) through Voting
+* Dfinity Developer Grant Program.
+* And those who have their own data-centers.
 
 All the above methods are not free of cost.
 So, there is one free way to get $20 worth of free cycles.
-Cycles Faucet: https://internetcomputer.org/docs/current/developer-docs/quickstart/cycles-faucet/
+*Cycles Faucet: https://internetcomputer.org/docs/current/developer-docs/quickstart/cycles-faucet/
 Again there is some conditions are there like you should have more than 90 days old twitter account.
 And twitter account has to be active over last 30 days.
 
