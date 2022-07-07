@@ -24,7 +24,7 @@ Note:
 generation of distributed applications to run on the Internet Computer (ICP) blockchain Network.
 
 
-# Final Application working:
+# Final Application:
 ![gif_final](https://user-images.githubusercontent.com/69100830/177812262-e9f44398-d8a8-45ed-b6ab-bd5bdb37fca7.gif)
 
 
